@@ -1,0 +1,1 @@
+=== Post Count ===Contributors: nickmomrikTags: posts, countStable tag: 2.0Tested up to: 4.4Counts the number of posts.== Installation ==1. Upload `comment-count.php` to the `/wp-content/plugins/` directory1. Activate the plugin through the 'Plugins' menu in WordPress1. Place `<?php mdv_post_count(); ?>` in your templates.
